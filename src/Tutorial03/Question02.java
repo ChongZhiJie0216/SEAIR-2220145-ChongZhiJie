@@ -14,6 +14,7 @@ public class Question02 {
         }
         System.out.println("Total of Male: " + (10 - total));
         System.out.println("Total of Female: " + total);
+        scanner.close();
     }
 }
 
