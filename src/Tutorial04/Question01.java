@@ -1,4 +1,3 @@
-//仅供参考，出事自负//
 package Tutorial04;
 
 import java.util.Scanner;
