@@ -12,5 +12,5 @@
 - [X] Question 01
 - [X] Question 02
 ## Tutorial 05
-- [ ] Question 01
+- [X] Question 01
 - [ ] Question 02
