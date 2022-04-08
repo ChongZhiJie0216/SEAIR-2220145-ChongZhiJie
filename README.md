@@ -13,4 +13,4 @@
 - [X] Question 02
 ## Tutorial 05
 - [X] Question 01
-- [ ] Question 02
+- [X] Question 02
