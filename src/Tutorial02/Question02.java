@@ -8,7 +8,7 @@ public class Question02 {
         System.out.println("Enter Your Name?:");
         String name = scanner.nextLine();
         System.out.println("Where are you from?");
-        String country=scanner.next();
+        String country = scanner.next();
 
         switch (country) {
             case "Malaysia" -> System.out.println("Selamat Datang," + name);

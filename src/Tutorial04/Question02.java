@@ -20,12 +20,12 @@ public class Question02 {
         while (cont.equals("Y")) {
             System.out.println("Choose your meal:");
             meal = scanner.next();
-            switch (meal){
-                case "A"->total += 12.00;
-                case "B"->total += 5.00;
-                case "C"->total += 3.60;
-                case "D"->total += 6.20;
-                case "E"->total += 8.90;
+            switch (meal) {
+                case "A" -> total += 12.00;
+                case "B" -> total += 5.00;
+                case "C" -> total += 3.60;
+                case "D" -> total += 6.20;
+                case "E" -> total += 8.90;
             }
             System.out.println("Continue?(Y/N):");
             cont = scanner.next();

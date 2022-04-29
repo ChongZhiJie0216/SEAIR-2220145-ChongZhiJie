@@ -10,7 +10,7 @@ public class Question02 {
         System.out.println("What is your title?:");
         String title = scanner.nextLine();
         System.out.println("***********************");
-        System.out.println("Welcome:" +title+" "+name);
+        System.out.println("Welcome:" + title + " " + name);
         System.out.println("***********************");
         scanner.close();
     }
