@@ -1,10 +1,4 @@
 package Semester02.Tutorial03;
-
-import Semester02.Tutorial02.Question01;
-import Semester02.Tutorial02.Question02;
-
-import java.awt.geom.Area;
-
 public class Question03 {
 /*    *//*double width;
     double length;
