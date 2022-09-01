@@ -1,4 +1,4 @@
-package Semester02.Tutorial03;
+package Semester02.Tutorial.Tutorial03;
 public class Question03 {
 /*    *//*double width;
     double length;

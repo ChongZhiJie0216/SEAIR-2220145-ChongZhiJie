@@ -1,6 +1,4 @@
-package Semester02.Tutorial03;
-
-import java.util.Scanner;
+package Semester02.Tutorial.Tutorial03;
 
 public class Question01 {
     int Num1,Num2,Num3;

@@ -1,6 +1,5 @@
-package Semester02.Tutorial02;
+package Semester02.Tutorial.Tutorial02;
 
-import java.util.Enumeration;
 import java.util.Scanner;
 
 public class Question02 {

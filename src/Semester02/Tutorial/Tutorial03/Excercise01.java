@@ -1,6 +1,4 @@
-package Semester02.Tutorial03;
-
-import javax.xml.namespace.QName;
+package Semester02.Tutorial.Tutorial03;
 
 public class Excercise01 {
         int mark;
